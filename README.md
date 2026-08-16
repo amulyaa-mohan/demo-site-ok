@@ -1,6 +1,6 @@
-# Git &amp; GitHub Workshop — Demo Site
+# Git &amp; GitHub Workshop: Demo Site
 
-A tiny website we use to learn version control by **changing things and tracking them**.
+Hey!! I am Amulyaa here, this is a tiny website we use to learn version control by **changing things and tracking them**, we are excited to learn git and github!!!
 
 Open `index.html` in a browser to see it. Then edit any file, and use Git to
 record what you did.
@@ -34,7 +34,7 @@ git merge <branch>       # combine branches
 
 1. Add your name to the **Participants** section in `index.html`.
 2. Run `git add .` then `git commit -m "add my name"`.
-3. Push to GitHub and refresh — your card is live.
+3. Push to GitHub and refresh, your card is live.
 
 <!-- First edit idea: change the workshop date below and commit it. -->
 Workshop date: **18.08.2026**
